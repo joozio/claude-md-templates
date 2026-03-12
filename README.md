@@ -138,6 +138,10 @@ Found a pattern that works? Send a PR:
 3. Keep it under 150 lines
 4. Add it to this README under "Templates"
 
+## Related
+
+See also: [claude-skills](https://github.com/joozio/claude-skills) — drop-in skill collection for Claude Code
+
 ## Resources
 
 - Blog post: [How I Structure CLAUDE.md After 1000+ Sessions](https://thoughts.jock.pl/p/how-i-structure-claude-md-after-1000-sessions)
@@ -147,3 +151,13 @@ Found a pattern that works? Send a PR:
 ---
 
 **Why this matters:** A good CLAUDE.md is the difference between an agent that takes random actions and one that aligns with your goals, constraints, and communication style. It's also a forcing function to clarify what you actually want.
+
+---
+
+Built by [Pawel Jozefiak](https://thoughts.jock.pl). I write about AI agents, automation, and building in public at **[Digital Thoughts](https://thoughts.jock.pl)** (1,000+ subscribers).
+
+Read more: [How I Structure CLAUDE.md](https://thoughts.jock.pl/p/how-i-structure-claudemd)
+
+Go deeper: [Claude Code Workshop](https://wiz.jock.pl/store/claude-code-workshop) ($29) · [Agent Memory System Kit](https://wiz.jock.pl/store/agent-memory-system) ($39)
+
+[Subscribe to the newsletter](https://thoughts.jock.pl/subscribe) | [More projects](https://github.com/joozio) | [@joozio](https://x.com/joozio)
